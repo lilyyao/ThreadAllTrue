@@ -1,0 +1,5 @@
+this will check whether the given string through 
+the first command line argument is a valid IP.
+Example: 
+   valid 	- 1.2.3.4
+   invalid  	- 1.2..4
